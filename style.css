@@ -1,3 +1,4 @@
 b{
     max-resolution: 20px    /* Noncompliant */ ;
+    max-width: 56px;        /* Compliant */
 }
